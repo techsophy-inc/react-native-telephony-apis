@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.app.Application;
 import android.os.Build;
 import android.os.Bundle;
-import android.util.Lo
+import android.util.Lo;
 
 import android.telephony.CellIdentityCdma;
 import android.telephony.CellIdentityGsm;
@@ -36,7 +36,7 @@ import android.telephony.CellSignalStrengthCdma;
 import android.telephony.CellSignalStrengthGsm;
 import android.telephony.CellSignalStrengthLte;
 import android.telephony.CellSignalStrengthWcdma;
-import java.util.Arrays
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
