@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.app.Application;
 import android.os.Build;
 import android.os.Bundle;
-import android.util.Lo;
+import android.util.Log;
 
 import android.telephony.CellIdentityCdma;
 import android.telephony.CellIdentityGsm;
